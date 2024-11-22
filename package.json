@@ -1,6 +1,7 @@
 {
 	"name": "people-finder",
 	"author" : "venkatakrishnaravi",
+	"description": "A backend application to find people",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

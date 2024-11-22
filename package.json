@@ -1,0 +1,15 @@
+{
+	"name": "people-finder",
+	"author" : "venkatakrishnaravi",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rvkrishna13/people-finder.git"
+	}
+}

@@ -2,6 +2,7 @@
 	"name": "people-finder",
 	"author" : "venkatakrishnaravi",
 	"description": "A backend application to find people",
+	"keywords": ["feecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
